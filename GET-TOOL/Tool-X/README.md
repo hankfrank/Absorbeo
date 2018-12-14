@@ -104,7 +104,5 @@ Now type Tool-X from anywhare in your terminal to open Tool-X. But use this tool
 Now type Tool-X from anywhare in your terminal to open Tool-X. But use this tool only for legal purpose.
 <br/>
 
-## Warning
-
-***I am not expert so use this tool at your own risk.***
+-ABSORBEO
 
