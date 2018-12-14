@@ -5,7 +5,7 @@
 * Arsenal is a Python script made to automate the download and installation of
   multiple pentesting and security-related tools and scripts. Additionally,
   several other tools and installation scripts are included in Arsenal,
-  which automate the download and installation of tools such as CobaltStrike and Hostapd-WPE.
+  which help automate the Absorbeo process.
   
 ## Requirements
 
